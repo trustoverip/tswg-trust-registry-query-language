@@ -1,4 +1,4 @@
-# Trust Registry Query Protocol
+# Trust Registry Query Language (TRQL)
 
 This repository contains the specification for the Trust Registry Query Language. See this [wiki](https://lf-toip.atlassian.net/wiki/spaces/HOME/pages/149749777/TRQL+Trust+Registry+Query+Language) for an initial start. 
 
