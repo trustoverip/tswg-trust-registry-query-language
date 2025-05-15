@@ -1,6 +1,6 @@
 # Trust Registry Query Protocol
 
-This repository contains the specification for the Trust Registry Query Protocol.
+This repository contains the specification for the Trust Registry Query Language.
 
 <p align="center">
   <img src="logo.png" alt="Trust Registry Query Protocol Logo" width="300">
